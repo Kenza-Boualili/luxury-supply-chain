@@ -1,0 +1,6 @@
+supplier_id,supplier_name,country,promised_lead_time_days
+SUP_01,Atelier Cuir Toscana,Italie,10
+SUP_02,Manufacture Horlogère Genève,Suisse,15
+SUP_03,Maison Joaillerie Place Vendôme,France,12
+SUP_04,Tanneries de Lyon,France,8
+SUP_05,Savoir-Faire Métaux Précieux,Italie,14

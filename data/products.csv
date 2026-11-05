@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_cost,unit_price,collection,supplier_id
+PROD_101,Sac Iconique Heritage,Maroquinerie,4191.6,11976,Permanente,SUP_01
+PROD_102,Malle de Voyage Heritage,Maroquinerie,668.15,1909,Capsule Automne,SUP_05
+PROD_103,Cabas Cuir Heritage,Maroquinerie,2102.1,6006,Permanente,SUP_02
+PROD_104,Portefeuille Prestige Heritage,Maroquinerie,1804.95,5157,Permanente,SUP_05
+PROD_105,Chronographe Chrono Heritage,Horlogerie,5150.95,14717,Capsule Automne,SUP_04
+PROD_106,Montre Automatique Gold Heritage,Horlogerie,15309.35,43741,Permanente,SUP_02
+PROD_107,Tourbillon Squelette Heritage,Horlogerie,12477.85,35651,Permanente,SUP_04
+PROD_108,Bague Diamant Solitaire Heritage,Joaillerie,3483.2,9952,Permanente,SUP_05
+PROD_109,Bracelet Saphir Heritage,Joaillerie,7814.8,22328,Permanente,SUP_03
+PROD_110,Pendentif Or Rose Heritage,Joaillerie,14391.3,41118,Capsule Automne,SUP_01
